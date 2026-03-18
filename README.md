@@ -1,4 +1,4 @@
-# 📉 Customer Churn Predictor
+# Customer Churn Predictor
 
 > **Machine Learning project to predict which customers will leave — Python · Scikit-learn · Random Forest**
 
@@ -6,7 +6,7 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 Customer churn is one of the most expensive problems for any business. This project builds a **Machine Learning model** that predicts which customers are likely to leave, and identifies the **key drivers of churn** — giving businesses the power to act before it's too late.
 
@@ -14,17 +14,17 @@ Customer churn is one of the most expensive problems for any business. This proj
 
 ---
 
-## 🎯 Business Questions Answered
+## Business Questions Answered
 
-- 🔴 Which customers are most likely to churn?
-- 📊 What is the overall churn rate?
-- 🔑 What are the top drivers of customer churn?
-- 📋 How accurate is our prediction model?
-- 💡 What actions should the business take to reduce churn?
+-  Which customers are most likely to churn?
+-  What is the overall churn rate?
+-  What are the top drivers of customer churn?
+-  How accurate is our prediction model?
+-  What actions should the business take to reduce churn?
 
 ---
 
-## 📊 Dashboard Includes
+##  Dashboard Includes
 
 | Visual | Insight |
 |--------|---------|
@@ -41,7 +41,7 @@ Customer churn is one of the most expensive problems for any business. This proj
 
 ---
 
-## 🤖 Machine Learning Model
+##  Machine Learning Model
 
 | Detail | Value |
 |--------|-------|
@@ -52,15 +52,15 @@ Customer churn is one of the most expensive problems for any business. This proj
 | Top Churn Driver | Monthly Charges |
 
 ### Top 5 Churn Drivers:
-1. 💰 **Monthly Charges** — higher bills = more likely to leave
-2. ⏱️ **Tenure** — newer customers churn most
-3. 💳 **Total Charges** — lifetime spend matters
-4. 📄 **Contract Type** — month-to-month = highest risk
-5. 🎂 **Age** — certain age groups churn more
+1.  **Monthly Charges** — higher bills = more likely to leave
+2.  **Tenure** — newer customers churn most
+3.  **Total Charges** — lifetime spend matters
+4.  **Contract Type** — month-to-month = highest risk
+5.  **Age** — certain age groups churn more
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ```
 Python 3.x
@@ -78,7 +78,7 @@ Python 3.x
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ### Step 1 — Clone the repository
 ```bash
@@ -102,7 +102,7 @@ python churn_predictor.py
 
 ---
 
-## 💡 Key Business Insights
+##  Key Business Insights
 
 | Finding | Recommended Action |
 |---------|-------------------|
@@ -114,7 +114,7 @@ python churn_predictor.py
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 customer-churn-predictor/
@@ -127,14 +127,14 @@ customer-churn-predictor/
 
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 I am actively looking for **remote Data Analyst roles** with US, Australian, or Canadian companies.
 
-📧 patelnirali448@gmail.com
-💼 [LinkedIn](https://linkedin.com/in/nirali-patel-4a7298209)
-💻 [GitHub](https://github.com/NiraliPatel10)
+ patelnirali448@gmail.com
+ [LinkedIn](https://linkedin.com/in/nirali-patel-4a7298209)
+ [GitHub](https://github.com/NiraliPatel10)
 
 ---
 
-⭐ *If you found this useful, please star the repo!*
+ *If you found this useful, please star the repo!*
